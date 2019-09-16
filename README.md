@@ -2,7 +2,7 @@
 
 This repository contains Asignment3 for CS648.
 
-The assignment designs webpage for **Vecta Corporation.** using CSS3 sytlesheets.\
+The assignment designs webpage for **Vecta Corporation.** using CSS3 sytlesheets.
 
 It includes\
 	1. Homepage\
